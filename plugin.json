@@ -3,5 +3,5 @@
   "name": "ozon-browser-shopper",
   "version": "0.2.0",
   "description": "Research leading products online, then compare Ozon listings and customer reviews using ChatGPT Work with user-assisted CAPTCHA handoff.",
-  "keywords": ["ozon", "shopping", "product-comparison"]
+  "keywords": ["ozon", "shopping", "product-comparison", "озон", "подбор товаров", "сравнение цен", "отзывы"]
 }
