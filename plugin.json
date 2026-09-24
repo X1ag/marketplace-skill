@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ozon-browser-shopper",
+  "version": "0.2.0",
+  "description": "Research leading products online, then compare Ozon listings and customer reviews using ChatGPT Work with user-assisted CAPTCHA handoff.",
+  "keywords": ["ozon", "shopping", "product-comparison"]
+}
